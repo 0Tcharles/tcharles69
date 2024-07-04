@@ -12,5 +12,3 @@ https://www.instagram.com/tha_sscabral/)
 </div><br/>
 
 ![codeimage](https://github.com/tcharles69/tcharles69/assets/168160801/874195fd-d29b-48b4-9b7d-82875d8ec156)
-
-![ Animação de cobra ] ( https://github.com/tcharles69/tcharles69/blob/output/github-contribution-grid-snake.svg )
