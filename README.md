@@ -9,6 +9,7 @@ https://www.instagram.com/tha_sscabral/)
 ​​<div style="display:inline_block"><br/>
  <img aling="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img aling="center" alt="java" src="https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
 ![codeimage](https://github.com/tcharles69/tcharles69/assets/168160801/874195fd-d29b-48b4-9b7d-82875d8ec156)
