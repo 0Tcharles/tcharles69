@@ -1,15 +1,70 @@
-## EAI TRANKS!Thales aqui🤘
+<!-- 🌆 SUNSET OVERDRIVE THEME README 🌆 -->
 
-[![istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](
-https://www.instagram.com/tha_sscabral/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](htpps//gmail.com/thales.sscabral@gmail.com)
+<div align="center">
+ 
+   <p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNrYXRzanlyOGNmN3VuaTBpZGQyNXkyMmd2ZWRjNnljOHozdGtxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.gif" width="300px" alt="DedSec">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcharles69&show_icons=true&theme=radical)
-## Codar é um modo de pensar
-​​<div style="display:inline_block"><br/>
- <img aling="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img aling="center" alt="java" src="https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=white" />
-</div><br/>
+        
+###  Thales Cabral️ 
+### _“Keep your code loud, your colors bright, and your coffee strong.”_  
+💥 Desenvolvedor movido a cafeína, bugs e adrenalina digital 💥  
 
-![codeimage](https://github.com/tcharles69/tcharles69/assets/168160801/874195fd-d29b-48b4-9b7d-82875d8ec156)
+---
+
+</div>
+
+## ☀️ Sobre mim
+
+🧠 Estudante de **Ciência da Computação** na **UFJ (Universidade Federal de Jataí)**  
+🚀 Explorando o caos criativo da **Engenharia de Software** e da **Arquitetura de Computadores**  
+🧩 Curto **Java**, **Python** e tudo que brilha em 60 FPS  
+
+---
+
+## ⚡ Tecnologias
+
+<div align="center">
+
+| 💻 Categoria | Ferramentas |
+|--------------|-------------|
+| **Linguagens** | Java ☕ • Python 🐍 • JavaScript ⚡ • C 🔩 |
+| **Frameworks** | Spring Boot 🌿 • React ⚛️ • Swing 🪟 |
+| **Banco de Dados** | MySQL 🧱 • PostgreSQL 🌀 |
+| **Dev Tools** | Git 🧩 • Docker 🐳 • VS Code 💻 • IntelliJ 🧠 |
+| **Sistemas** | Linux 🐧 • Windows 💾 |
+
+</div>
+
+---
+
+## 🌇 Estatísticas do Caos Controlado
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0Tcharles&show_icons=true&theme=radical)
+
+## 🚀 Tecnologias & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
+</p>
+
+
+</div>
+
+---
+
+## 🧃 Contato
+
+📫 **Email:** thales.sscabral@gmail.com   
+💥 **GitHub:** [github.com/0Tcharles](https://github.com/0Tcharles)  
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="160px" alt="Mutant Dance">
+  <br>
+  <h3>⚙️ “Code hard. Stay loud. Avoid boring design.” ⚙️</h3>
+</div>
