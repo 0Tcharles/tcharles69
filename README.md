@@ -1,4 +1,3 @@
-<!-- 🌆 SUNSET OVERDRIVE THEME README 🌆 -->
 
 <div align="center">
  
